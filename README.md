@@ -1,8 +1,8 @@
-#  Eric O Meehan C Library
+#  Maraol C Library
 
 ## Introduction
 
-Eric O Meehan's C Library is an open source collection of tools for the C programming language.  
+Maraol's C Library is an open source collection of tools for the C programming language.  
 The project is in continuous development, with features being added and revised continually over time.  
 
 ## Compiling
@@ -137,4 +137,18 @@ libeom/Systems
 #include <libeom/Systems.h>
 ```
 
+## Contribution
+If you wish to contribute to the development of this project, please fork and send pull requests. Additionally, you can report any bugs or suggestions through the Issues section.
 
+## License
+This project is released under the MIT license. For more information, please read the [LICENSE](https://choosealicense.com/licenses/mit/) file.
+## Contact
+If you have any questions or feedback, feel free to reach out:
+
+Email: maniagahdev@gmail.com
+
+Contact us: https://maniagah.ir/home/Contact
+
+Instagram: @mani.aspx
+
+We welcome your collaboration to improve this application!
