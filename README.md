@@ -1,4 +1,4 @@
-#  Maraol C Library
+# Maraol C Library
 
 ## Introduction
 
