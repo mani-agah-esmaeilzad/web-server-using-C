@@ -137,17 +137,21 @@ libeom/Systems
 #include <libeom/Systems.h>
 ```
 
-## Contribution
+## Contribution:
+
 If you wish to contribute to the development of this project, please fork and send pull requests. Additionally, you can report any bugs or suggestions through the Issues section.
 
-## License
+## License:
+
 This project is released under the MIT license. For more information, please read the [LICENSE](https://choosealicense.com/licenses/mit/) file.
-## Contact
+## Contact:
+
 If you have any questions or feedback, feel free to reach out:
 
 Email: maniagahdev@gmail.com
 
-Contact us: https://maniagah.ir/home/Contact
+Contact us: https://maniagah.ir/home/
+Contact
 
 Instagram: @mani.aspx
 
