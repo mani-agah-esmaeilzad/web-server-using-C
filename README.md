@@ -1,11 +1,11 @@
-# Maraol C Library
+# Maraol C Library:
 
-## Introduction
+## Introduction:
 
 Maraol's C Library is an open source collection of tools for the C programming language.  
 The project is in continuous development, with features being added and revised continually over time.  
 
-## Compiling
+## Compiling:
 
 If you save the libeom directory to your default include location, there is no need to compile anything; however, a makefile is provided to allow the compiling of libeom into a static library containing all sub-modules, individual sub-modules, or both.  The simplest configuration is to compile both with the command:
 
@@ -37,7 +37,7 @@ The easiest way to import the library is simply to download the project folder a
 // If in default include path:
 #include <libeom.h>
 // If in the same directory as your project:
-#include "libeom/libeom.h"
+    #include "libeom/libeom.h":
 ```
 
 If you are using libeom as a static library, remember to include the desired .a file in your command:
@@ -59,12 +59,12 @@ gcc my_project.c libeom/DataStructures/DataStructures.a
 
 Since there are numerous sub-modules, this file will simply serve as a table of contents for what is included in the library. 
 
-## Contents
+## Contents:
 
 For specific documentation on components, check the README included in the sub-module directories.  
 
 
-### Data Structures
+### Data Structures:
 
 **Location:**
 
@@ -78,7 +78,7 @@ libeom/DataStructures
 #include <libeom/DataStructures.h>
 ```
 
-#### Components
+#### Components:
 
 **Common**
 
